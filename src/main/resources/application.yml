@@ -1,0 +1,10 @@
+exchange-rate:
+  urls:
+    frankfurter-url: "https://api.frankfurter.dev/v1"
+    primary-currency-url: "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1"
+    fallback-currency-url: "https://latest.currency-api.pages.dev/v1"
+
+knife4j:
+  enable: true
+
+cache-expiry-seconds: 300
